@@ -3,7 +3,7 @@
 - quick side project
 - rails 6 with bulma scss & devise && simple_form
 
-![screenshot]((https://raw.githubusercontent.com/magiknono/landingpagebo/master/landinpagewithbo.gif))
+![screenshot]((https://raw.githubusercontent.com/magiknono/landingpagewithbo/master/landinpagewithbo.gif)
 # GOAL
 - front: landing page - learn bulma
 - back : protected zone
